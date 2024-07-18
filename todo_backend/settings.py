@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-u%om_7x31!s0c+%ldu*i&m=z7faf#aw%pb9^tx_dt92(1gjj+a
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ec2-54-227-48-63.compute-1.amazonaws.com']
 
 # settings.py
 
