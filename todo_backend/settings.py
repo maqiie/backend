@@ -31,7 +31,9 @@ ALLOWED_HOSTS = []
 
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',  # Example: React development server
-    'http://127.0.0.1:3000',   # Example: Another common setup
+    'http://127.0.0.1:3000',
+    'http://roulttech.s3-website.eu-north-1.amazonaws.com',
+    # Example: Another common setup
     # Add other development origins as needed
 ]
 
